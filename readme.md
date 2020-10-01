@@ -23,10 +23,11 @@ I am not including "ProsperRating" because it seems it gives the same reading as
 The "Term" seem biased toward 36 months due to approval procedure.
 
 I found the following feature interesting and want to explore it more:
-- LoanOriginalAmount
+- LoanOriginalAmount  
 Will include it in the explanatory slides as it gives depth the analysis.
 
 The following has a weak or no apparent relation with the Loan Status:
+
 - EmploymentStatusDuration
 - IsBorrowerHomeowner: Doesn't give any indication
 - DebtToIncomeRatio: has lot of outliers values which seem unreasonable.
@@ -36,11 +37,11 @@ The following has a weak or no apparent relation with the Loan Status:
 
 ## Key Insights for Presentation
 
-Borrower APR is a strong indicator if the loan will default or be completed.
+Borrower APR is a strong indicator if the loan will default or be completed.  
 Also security at job plays main role.
 
 ## Feedback
 
-Feedback from audience of 3:
+Feedback from audience of three:
 - Simple and easy to follow
 - Graphs with 3 variables were challenging to understand with reading the comments with it
